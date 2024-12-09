@@ -1,0 +1,16 @@
+# Hashes of file build rules.
+8b17ce3e6fe447134ba9c088f6255659 ../data/locale/tr/LC_MESSAGES/sumo.mo
+3b63536d21fe1533ba46517582c74de7 CMakeFiles/dist
+61a5dd640a948b57572b926525017db0 CMakeFiles/distcheck
+11694884cc8c5ddb706047a94a50c225 CMakeFiles/doxygen
+dd6ef43ed92d3c818e193b88278c99c2 CMakeFiles/examples
+1bdf768b98ddd4189d53998926129c45 CMakeFiles/install_mo
+4f60b48a802a09530451c23b5d7b153f CMakeFiles/userdoc
+f0d23f92ce2f9acf7acd2af83b38de12 src/CMakeFiles/generate-version-h
+9dc506e71efb362d3d233e9f6ef5daa4 src/fmi/CMakeFiles/fmi
+0015011461b56fce8e1a1a3b77618377 src/fmi/CMakeFiles/prepfmi
+9fec5204680bcf8d40a7c1439f05560a src/netedit/CMakeFiles/generate-templates-h
+9e653edbee869a47bd8f25135e83a75c src/netedit/templates.h
+c6b635a57c6fc85451d6bf810a55a1b5 src/netimport/typemap.h
+e5c8d1e3c1eca33c5e613a77e2adc378 src/polyconvert/pc_typemap.h
+04225f5fcefe024b5e4f118ef31f5aec src/version.h

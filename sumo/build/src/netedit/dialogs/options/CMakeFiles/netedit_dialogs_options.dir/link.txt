@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnetedit_dialogs_options.a  CMakeFiles/netedit_dialogs_options.dir/GNEOptionsDialog.cpp.o CMakeFiles/netedit_dialogs_options.dir/GNEOptionsDialogElements.cpp.o
+/usr/bin/ranlib libnetedit_dialogs_options.a
